@@ -1,0 +1,7 @@
+Instrucciones para el jugador izquierdo:
+	W - moverse arriba
+	S - moverse abajo
+
+Instrucciones para el jugador derecho:
+	UP ARROW - moverse arriba
+	DOWN ARROW - moverse abajo
